@@ -23,7 +23,7 @@ coverage==4.5.3
 cryptography==2.7
 daemon==1.2
 daphne
-Django==2.2.8
+Django==3.0.1
 django-celery-results==1.1.2
 django-widget-tweaks==1.4.5
 django-yamlfield==1.0.3

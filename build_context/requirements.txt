@@ -29,7 +29,7 @@ django-widget-tweaks==1.4.5
 django-yamlfield==1.0.3
 djangorestframework==3.9.4
 docutils
-flower==0.9.3
+flower==1.2.0
 hiredis==1.0.0
 hyperlink==19.0.0
 idna==2.8
